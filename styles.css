@@ -1,0 +1,36 @@
+.outside{display:flex;
+}
+.inside-1{display:flex;
+         width:100%;
+         padding:25px;
+}
+h1{color:gold;}
+.inside-3{display:flex;
+          width:50%;
+          padding:25px;
+}
+h1{background-color:grey;}
+div{background-color:gold;
+}
+img{width:500px;}
+.inside-2{width:50%;
+          padding:25px;
+          border:solid;
+}
+.button-center{
+    display:flex;
+    justify-content:center;
+    padding:50px;
+    background:gold;
+    
+}
+button {
+    background: pink;
+    color: silver;
+    font-size: 20px;
+    padding: 20px;
+}
+
+button:hover {
+    background:black;
+}
